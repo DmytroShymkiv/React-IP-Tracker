@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-IP-Tracker/static/css/main.279ff575.chunk.css",
+    "main.js": "/React-IP-Tracker/static/js/main.f936c17d.chunk.js",
+    "main.js.map": "/React-IP-Tracker/static/js/main.f936c17d.chunk.js.map",
+    "runtime-main.js": "/React-IP-Tracker/static/js/runtime-main.4801b683.js",
+    "runtime-main.js.map": "/React-IP-Tracker/static/js/runtime-main.4801b683.js.map",
+    "static/css/2.68b64559.chunk.css": "/React-IP-Tracker/static/css/2.68b64559.chunk.css",
+    "static/js/2.0b0f80c4.chunk.js": "/React-IP-Tracker/static/js/2.0b0f80c4.chunk.js",
+    "static/js/2.0b0f80c4.chunk.js.map": "/React-IP-Tracker/static/js/2.0b0f80c4.chunk.js.map",
+    "static/js/3.577ab49a.chunk.js": "/React-IP-Tracker/static/js/3.577ab49a.chunk.js",
+    "static/js/3.577ab49a.chunk.js.map": "/React-IP-Tracker/static/js/3.577ab49a.chunk.js.map",
+    "index.html": "/React-IP-Tracker/index.html",
+    "static/css/2.68b64559.chunk.css.map": "/React-IP-Tracker/static/css/2.68b64559.chunk.css.map",
+    "static/css/main.279ff575.chunk.css.map": "/React-IP-Tracker/static/css/main.279ff575.chunk.css.map",
+    "static/js/2.0b0f80c4.chunk.js.LICENSE.txt": "/React-IP-Tracker/static/js/2.0b0f80c4.chunk.js.LICENSE.txt",
+    "static/media/icon-location.7e6459d2.svg": "/React-IP-Tracker/static/media/icon-location.7e6459d2.svg",
+    "static/media/App.css": "/React-IP-Tracker/static/media/pattern-bg.a60a3c85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4801b683.js",
+    "static/css/2.68b64559.chunk.css",
+    "static/js/2.0b0f80c4.chunk.js",
+    "static/css/main.279ff575.chunk.css",
+    "static/js/main.f936c17d.chunk.js"
+  ]
+}
